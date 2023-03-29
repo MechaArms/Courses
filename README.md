@@ -1,4 +1,4 @@
-# Courses-App
+# Courses App
 Android Google Codelab exercise about create a course list app with a Lazy Vertical/Columm Grid using Jetpack Compose
 
 
